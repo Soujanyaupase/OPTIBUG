@@ -1,4 +1,4 @@
-# BUG-PRIORITIZATION
+# OPTIBUG(BUG-PRIORITIZATION)
 Bug fixing is a crucial daily activity in software development and maintenance that significantly impacts 
 Software Quality Assurance (SQA). Bug tracking systems, such as Bugzilla, are frequently utilized to 
 monitor and handle software bugs. Bug triaging is a crucial step in the defect assignment process of bug 
